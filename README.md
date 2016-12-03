@@ -1,4 +1,4 @@
-![react-native-shake-event](https://cdn.rawgit.com/jadsonlourenco/react-native-shake-event-ios/master/media/promo.jpg)
+![react-native-shake-event](https://cdn.rawgit.com/jadsonlourenco/react-native-shake-event/master/media/promo.jpg)
 
 [![npm package](https://img.shields.io/npm/v/react-native-shake-event.svg?style=flat-square)](https://www.npmjs.org/package/react-native-shake-event)
 [![react-native channel on discord](https://img.shields.io/badge/discord-react--native%40reactiflux-738bd7.svg?style=flat-square)](https://discord.gg/0ZcbPKXt5bXsb3os)
@@ -7,7 +7,7 @@ Add the shake event on your React Native app, giving to users improved usability
 *(works only on real device)*
 
 ## Demo
-<img src="https://cdn.rawgit.com/jadsonlourenco/react-native-shake-event-ios/master/media/demo.gif" width="480" height="270" alt="react-native-shake-event-ios">
+<img src="https://cdn.rawgit.com/jadsonlourenco/react-native-shake-event/master/media/demo.gif" width="480" height="270" alt="react-native-shake-event">
 
 
 ## Install
