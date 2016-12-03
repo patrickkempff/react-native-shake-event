@@ -1,16 +1,13 @@
-# ![react-native-shake-event-ios](https://storage.googleapis.com/cdn.chessboardradio.com/lab/projects/01-NShakeEventIOS/promo.png)
+[[media/promo.jpg|alt=react-native-shake-event]]
 
-[![npm package](https://img.shields.io/npm/v/react-native-shake-event-ios.svg?style=flat-square)](https://www.npmjs.org/package/react-native-shake-event-ios)
+[![npm package](https://img.shields.io/npm/v/react-native-shake-event.svg?style=flat-square)](https://www.npmjs.org/package/react-native-shake-event)
 [![react-native channel on discord](https://img.shields.io/badge/discord-react--native%40reactiflux-738bd7.svg?style=flat-square)](https://discord.gg/0ZcbPKXt5bXsb3os)
 
 Add the shake event on your React Native app, giving to users improved usability. Enjoy!
 *(works only on real device)*
 
 ## Demo
-
-<a href="https://www.youtube.com/watch?v=mKjkWHto6NQ&feature=youtu.be" target="_blank"><img src="https://storage.googleapis.com/cdn.chessboardradio.com/lab/projects/01-NShakeEventIOS/demo.gif" width="480" height="270" alt="react-native-shake-event-ios"></a>
-* [Video Demo](https://www.youtube.com/watch?v=mKjkWHto6NQ&feature=youtu.be)
-* [Example App](https://github.com/jadsonlourenco/react-native-shake-event-ios-example)
+[[media/demo.gif|alt=react-native-shake-event]]
 
 
 ## Install
@@ -19,7 +16,7 @@ Add the shake event on your React Native app, giving to users improved usability
 $ npm install react-native-shake-event --save
 ```
 
-#### iOS
+### iOS
 
 ##### Automatic
 
@@ -32,7 +29,7 @@ $ npm install react-native-shake-event --save
 
 This step is described here: [Linking Libraries](https://facebook.github.io/react-native/docs/linking-libraries-ios.html#content).
 
-#### Android
+### Android
 
 `react-native link react-native-shake-event`
 
@@ -65,9 +62,9 @@ Start listening the shake event and handle a callback function.
 Stop to listening the shake event, and is recommended to prevent memory leak.
 
 ## Issues
-1. [Submit here](https://github.com/jadsonlourenco/react-native-shake-event-ios/issues);
-2. On *debug mode* this event also handle the **DevMenu**, but works fine on *production*.
+1. On *debug mode* this event also handle the **DevMenu**, but works fine on *production*.  
+2. [Submit here](https://github.com/jadsonlourenco/react-native-shake-event/issues);
 
 ## License
 
-MIT © [Chessboard Radio Lab](https://chessboardradio.com)
+MIT

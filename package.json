@@ -5,9 +5,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jadsonlourenco/react-native-shake-event-ios.git"
+    "url": "https://github.com/jadsonlourenco/react-native-shake-event.git"
   },
   "keywords": [
+    "android",
     "ios",
     "native",
     "react",
@@ -16,15 +17,16 @@
     "react-native-component",
     "shake",
     "shake-event",
+    "shake-event-android",
     "shake-event-ios"
   ],
-  "author": "Jadson Lourenco <jadsonlourenco@gmail.com> (https://lab.chessboardradio.com)",
+  "author": "Jadson Lourenco <jadsonlourenco@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jadsonlourenco/react-native-shake-event-ios/issues"
+    "url": "https://github.com/jadsonlourenco/react-native-shake-event/issues"
   },
-  "homepage": "https://github.com/jadsonlourenco/react-native-shake-event-ios",
+  "homepage": "https://github.com/jadsonlourenco/react-native-shake-event",
   "dependencies": {
-    "invariant": "^2.1.2"
+    "invariant": "^2.2.x"
   }
 }
