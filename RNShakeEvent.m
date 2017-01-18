@@ -1,9 +1,9 @@
 #import "RNShakeEvent.h"
 
-#import "RCTBridge.h"
-#import "RCTEventDispatcher.h"
-#import "RCTLog.h"
-#import "RCTUtils.h"
+#import <React/RCTBridge.h>
+#import <React/RCTEventDispatcher.h>
+#import <React/RCTLog.h>
+#import <React/RCTUtils.h>
 
 static NSString *const RCTShowDevMenuNotification = @"RCTShowDevMenuNotification";
 
