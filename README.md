@@ -1,5 +1,3 @@
-# DISCONTINUED!
-
 ![react-native-shake-event](https://cdn.rawgit.com/jadsonlourenco/react-native-shake-event/master/media/promo.jpg)
 
 [![npm package](https://img.shields.io/npm/v/react-native-shake-event.svg?style=flat-square)](https://www.npmjs.org/package/react-native-shake-event)
