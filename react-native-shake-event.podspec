@@ -11,6 +11,6 @@ Pod::Spec.new do |s|
   s.authors = package[:author][:name]
   s.summary = package[:description]
   s.source = { git: package[:repository][:url] }
-  s.source_files = "./*.{h,m}"
+  s.source_files = "ios/*"
   s.platform = :ios, "7.0"
 end

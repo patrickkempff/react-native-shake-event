@@ -8,7 +8,7 @@ import React, {DeviceEventEmitter, NativeModules} from 'react-native';
 import invariant from 'invariant';
 
 var listener;
-class RNShakeEventIOS {
+class RNShakeEvent {
   static addEventListener(type: string, handler: Function) {
     invariant(
       type === 'shake',
@@ -35,4 +35,4 @@ class RNShakeEventIOS {
   }
 };
 
-module.exports = RNShakeEventIOS;
+module.exports = RNShakeEvent;
