@@ -3,6 +3,12 @@
   "version": "3.1.0",
   "description": "Add shake event to your React Native app",
   "main": "js/index.js",
+  "files": [
+    "android",
+    "ios",
+    "js",
+    "react-native-shake-event.podspec"
+  ],
   "keywords": [
     "android",
     "ios",
